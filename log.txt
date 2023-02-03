@@ -1,0 +1,72 @@
+*************************
+
+
+Loggged in id: admin	 Time: 2021/05/21 20:14:44
+All Data viewed at Time: 2021/05/21 20:14:56
+
+Logged out at Time: 2021/05/21 20:15:11
+*************************
+
+
+Loggged in id: admin	 Time: 2021/05/22 13:43:30
+All Data viewed at Time: 2021/05/22 13:44:08
+Data added to database ID: 13 ,Medicine Name: Combiflam ,Quantity: 45 ,Prescription Requirement: F, Expiry Date: 2022-01-02 at Time: 2021/05/22 13:45:19
+Record Deleted: 13 at Time: 2021/05/22 13:46:07
+User Created:user4 Type:user at Time: 2021/05/22 13:46:53
+All users Searched at Time: 2021/05/22 13:47:17
+
+Logged out at Time: 2021/05/22 13:48:38
+*************************
+
+
+Loggged in id: admin	 Time: 2021/05/24 15:29:55
+
+Logged out at Time: 2021/05/24 15:30:21
+*************************
+
+
+Loggged in id: admin	 Time: 2021/05/24 21:48:05
+*************************
+
+
+Loggged in id: admin	 Time: 2021/05/25 10:10:28
+All Data viewed at Time: 2021/05/25 10:10:37
+All Data viewed at Time: 2021/05/25 10:10:49
+Update operation performed on 1 at Time: 2021/05/25 10:14:01
+Updated Data Medicine Name:Crocin ,Quantity: 8 ,Prescription Requirement: F ,Expiry Date:2021-12-01
+Data added to database ID: 24 ,Medicine Name: Sid ,Quantity: 123 ,Prescription Requirement: T, Expiry Date: 2022-01-12 at Time: 2021/05/25 10:15:35
+Searched for Medicine Name: Sid at Time: 2021/05/25 10:15:44
+All Data viewed at Time: 2021/05/25 10:16:02
+All users Searched at Time: 2021/05/25 10:16:20
+
+Logged out at Time: 2021/05/25 10:16:39
+*************************
+
+
+Loggged in id: user1	 Time: 2021/05/25 10:16:47
+
+Logged out at Time: 2021/05/25 10:17:57
+*************************
+
+
+Loggged in id: admin	 Time: 2021/05/25 10:18:03
+All users Searched at Time: 2021/05/25 10:18:47
+All users Searched at Time: 2021/05/25 10:19:05
+All users Searched at Time: 2021/05/25 10:19:07
+All users Searched at Time: 2021/05/25 10:19:42
+All users Searched at Time: 2021/05/25 10:19:49
+
+Logged out at Time: 2021/05/25 10:19:57
+*************************
+
+
+Loggged in id: admin	 Time: 2021/05/25 10:20:08
+Record Deleted Item id: crocin at Time: 2021/05/25 10:20:41
+
+Logged out at Time: 2021/05/25 10:22:54
+*************************
+
+
+Loggged in id: admin	 Time: 2021/05/25 10:29:20
+
+Logged out at Time: 2021/05/25 10:38:02
