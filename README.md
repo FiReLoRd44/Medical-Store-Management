@@ -11,5 +11,5 @@ This is a medical store management software written in java. Swing is used to cr
 2. You will also need to MYSQL installed and configured.
 3. Just change the credentials and schema in all the java source files where a JDBC connection is made. 
 4. After following the above steps you will be easily be able to run the medical store management software.
-```
+
     
